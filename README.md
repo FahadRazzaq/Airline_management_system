@@ -1,4 +1,4 @@
-# Airport Management System
+# Airline Management System
 
 ## Overview
 The Airport Management System is a Java-based application designed for efficient management of passenger details, flight information, and flight booking details. This project was developed as the final project for the CS311: Object-Oriented Programming course, led by Muhammad Fahad Razzaq.
